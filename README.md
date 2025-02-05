@@ -34,10 +34,10 @@ After building the project, you can run RustSeek from the command line. Here’s
 
 ## TODO
 ```bash
-./target/release/rustseek <command> [options]
+./target/release/rustseek.exe <model> <APIServer>
 ```
 
-Replace `<command>` with the specific command you want to execute and provide any necessary options.
+Replace `<model>` with the specific model name you want to set API Server IP (http://localhost:11434/api/generate).
 
 
 ## License
